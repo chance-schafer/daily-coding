@@ -1,24 +1,20 @@
 {
   "authors": [
-    "trayo"
-  ],
-  "contributors": [
-    "aarti",
-    "robphoenix",
-    "ryanplusplus"
+    "imolein"
   ],
   "files": {
     "solution": [
-      "hello-world.lua"
+      "lasagna.lua"
     ],
     "test": [
-      "hello-world_spec.lua"
+      "lasagna_spec.lua"
     ],
-    "example": [
-      ".meta/example.lua"
+    "exemplar": [
+      ".meta/exemplar.lua"
     ]
   },
-  "blurb": "The classical introductory exercise. Just say \"Hello, World!\".",
-  "source": "This is an exercise to introduce users to using Exercism",
-  "source_url": "https://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+  "forked_from": [
+    "go/lasagna"
+  ],
+  "blurb": "Learn about the basics of Lua by following a lasagna recipe."
 }
